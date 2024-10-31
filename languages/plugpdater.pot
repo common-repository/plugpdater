@@ -1,0 +1,163 @@
+# Translation of the WordPress plugin plugpdater by imath (twitter.com/imath).
+# Copyright (C) 2011 imath (twitter.com/imath)
+# This file is distributed under the same license as plugpdater package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: plugpdater 0.1\n"
+"Report-Msgid-Bugs-To: http://imath.owni.fr\n"
+"POT-Creation-Date: 2010-08-14 15:10+0000\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. #-#-#-#-#  plugpdater.pot (plugpdater 0.1)  #-#-#-#-#
+
+#: plugpdater.php:66
+msgid "Only Network administrator can access this page !"
+msgstr ""
+
+#: plugpdater.php:69
+msgid "Only administrator can access this page !"
+msgstr ""
+
+#: plugpdater.php:81
+msgid "Please, use radio button to select the plugin you want to update"
+msgstr ""
+
+#: plugpdater.php:86
+msgid "Oops, the zip files was not uploaded, please try again. You will need to reactivate the plugin if it was activated"
+msgstr ""
+
+#: plugpdater.php:91
+msgid "Please, select a plugin to update :"
+msgstr ""
+
+#: plugpdater.php:93 plugpdater.php:95
+msgid "Begin Update Process"
+msgstr ""
+
+#: plugpdater.php:113 plugpdater.php:122
+msgid "Plugin"
+msgstr ""
+
+#: plugpdater.php:114 plugpdater.php:123
+msgid "Status"
+msgstr ""
+
+#: plugpdater.php:115 plugpdater.php:124
+msgid "Description"
+msgstr ""
+
+#: plugpdater.php:133
+msgid "No plugins to show"
+msgstr ""
+
+#: plugpdater.php:158
+msgid "Network activated"
+msgstr ""
+
+#: plugpdater.php:159
+msgid "Blog activated"
+msgstr ""
+
+#: plugpdater.php:160
+msgid "inactive"
+msgstr ""
+
+#: plugpdater.php:170
+msgid "Version %s"
+msgstr ""
+
+#: plugpdater.php:174
+msgid "Visit author homepage"
+msgstr ""
+
+#: plugpdater.php:175
+msgid "By %s"
+msgstr ""
+
+#: plugpdater.php:178
+msgid "Visit plugin site"
+msgstr ""
+
+#: plugpdater-uploader.php:18
+msgid "During the update process, the plugin has been deactivated. Once updated, it will be reactivated. If an error occurs or if you do not want to continue the update process, you will have to activate the plugin manually in <a href='plugins.php'>the Plugins Administration page</a>"
+msgstr ""
+
+#: plugpdater-uploader.php:22
+msgid "Upload your plugin update for :"
+msgstr ""
+
+#: plugpdater-uploader.php:25
+msgid "Zip Archive of the plugin update"
+msgstr ""
+
+#: plugpdater-uploader.php:27
+msgid "Upload Zip"
+msgstr ""
+
+#: plugpdater-installer.php:7
+msgid "Updating plugin &quot;%s&quot;"
+msgstr ""
+
+#: plugpdater-installer.php:11
+msgid "<b>Fatal Error</b> : the upload process stopped. Please correct your plugin and try again once done."
+msgstr ""
+
+#: plugpdater-installer.php:13 plugpdater-installer.php:24 plugpdater-installer.php:34
+msgid "the plugin was deactivated during the update process, you can reactivate it in the <a href='plugins.php'>Plugins Administration page</a>."
+msgstr ""
+
+#: plugpdater-installer.php:21 plugpdater-installer.php:31
+msgid "<b>Unexpected Error</b> : the upload process stopped. Please correct your plugin and try again once done."
+msgstr ""
+
+#: plugpdater-installer.php:22
+msgid "The plugin printed this unexpected string :"
+msgstr ""
+
+#: plugpdater-installer.php:32
+msgid "The update directory of the plugin was not found or does not match with the installed plugin you want to update"
+msgstr ""
+
+#: plugpdater-installer.php:42
+msgid "Updating process began, please wait.."
+msgstr ""
+
+#: plugpdater-installer.php:48
+msgid "Updating directory is missing ? Update stopped."
+msgstr ""
+
+#: plugpdater-installer.php:62
+msgid "Deleting old version of the plugin.."
+msgstr ""
+
+#: plugpdater-installer.php:67
+msgid "Old version of the plugin was not found"
+msgstr ""
+
+#: plugpdater-installer.php:74
+msgid "Installing new version of the plugin"
+msgstr ""
+
+#: plugpdater-installer.php:76
+msgid "Update done"
+msgstr ""
+
+#: plugpdater-installer.php:79
+msgid "the plugin has been successfully reactivated."
+msgstr ""
+
+#: plugpdater-installer.php:80
+msgid "You can activate the plugin in <a href='plugins.php'>the Plugin Administration page</a>"
+msgstr ""
+
+#: plugpdater-installer.php:86
+msgid "<b>Unexpected Error</b> : the plugin does not seem to be installed, so it cannot be updated!"
+msgstr ""

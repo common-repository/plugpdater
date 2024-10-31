@@ -1,0 +1,25 @@
+.plugpdater_btn{
+	padding:10px;
+}
+.plugpdater_updated, .strange_error{
+	border-width: 1px;
+	border-style: solid;
+	padding: 0 0.6em;
+	margin: 5px 15px 2px;
+	-moz-border-radius: 3px;
+	-khtml-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	background-color: #A9F5D0;
+	border-color: #04B45F;
+}
+.strange_error{
+	background-color: #ffebe8;
+	border-color: #c00;
+}
+
+.plugpdater_updated p{
+	margin: 0.5em 0;
+	line-height: 1;
+	padding: 2px;
+}
